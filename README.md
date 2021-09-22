@@ -6,4 +6,4 @@
 4. modifica il file *setting.txt* per ulteriori personalizzazioni
 
 ## Descrizione
-Questo è l'emulatore del [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8#cite_note-rcaops-15), un interprete usato per realizzare videogiochi. Molti giochi sono stati portati è possono essere giocati grazie a questo programma, ad esempio Pong, Tetris o Space Invaders.
+Questo è l'emulatore del [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8), un interprete usato per realizzare videogiochi. Molti giochi sono stati portati è possono essere giocati grazie a questo programma, ad esempio Pong, Tetris o Space Invaders.
