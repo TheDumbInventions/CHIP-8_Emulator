@@ -1,0 +1,47 @@
+###########################
+#  CHIP-8 EMULATOR v1.0a  #
+###########################
+
+# GAME
+GAME_PATH = "./games/Space Invaders [David Winter].ch8"
+
+# DISPLAY
+FULLSCREEN = TRUE
+SHOW_GRID = TRUE
+PIXEL_SCALE = 15
+
+# AUDIO
+VOLUME = 8
+TONE_FREQUENCY = 441
+
+# SYSTEM
+CLOCK_FREQUENCY = 540
+DEBUG_OUTPUT = FALSE
+
+# KEY MAPPING (DO NOT MODIFY MANUALLY)
+KEY_0 = Keypad 0
+KEY_1 = Keypad 7
+KEY_2 = Keypad 8
+KEY_3 = Keypad 9
+KEY_4 = Keypad 4
+KEY_5 = Keypad 5
+KEY_6 = Keypad 6
+KEY_7 = Keypad 1
+KEY_8 = Keypad 2
+KEY_9 = Keypad 3
+KEY_A = Right
+KEY_B = Keypad .
+KEY_C = Keypad /
+KEY_D = Keypad *
+KEY_E = Keypad +
+KEY_F = Keypad Enter
+
+# ORIGINAL KEYBOARD LAYOUT
+# |1|2|3|C|
+# |4|5|6|D|
+# |7|8|9|E|
+# |A|0|B|F|
+
+# CREDITS
+# All the CHIP-8 emulator parts was developed by Claudio Raccomandato 22/09/2021
+# https://github.com/TheDumbInventions
